@@ -674,7 +674,7 @@ color: var(--colorBlue);
 .icon-btn-close {
 width: 18px;
 height: 18px;
-fill: var(--colorBlack);
+fill: currentColor;
 }
 .btn-close:hover,
 .btn-close:focus {
